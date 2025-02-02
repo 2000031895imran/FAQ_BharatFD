@@ -102,4 +102,14 @@ npm run test
 
 ## License
 
-MIT# FAQ_BharatFD
+MIT# FAQ_BharatFD|
+
+THE OUT PUTS OF THE ABOVE PROJECT 
+
+![Screenshot (435)](https://github.com/user-attachments/assets/2f5be573-ab57-4164-a4b7-f8d2843a9af5)
+
+![Screenshot (436)](https://github.com/user-attachments/assets/a612b501-360f-4df5-a4dd-1cfdf0181b33)
+
+![Screenshot (437)](https://github.com/user-attachments/assets/7d14ae12-0d85-4c1c-ae44-40ece359fb16)
+
+
